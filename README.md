@@ -14,6 +14,6 @@ the menu, and place orders with ease.
 
   Tech Stack:
   -----------
-Frontend: React.js, Tailwind CSS
-Backend: (If applicable) Node.js, Express.js
-Database: (If applicable) Firebase / MongoDB / MySQL
+Frontend: React.js, Tailwind CSS                                                 
+Backend: (If applicable) Node.js, Express.js                                                    
+Database: (If applicable) Firebase / MongoDB / MySQL                                                  
